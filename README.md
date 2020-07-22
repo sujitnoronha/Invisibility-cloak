@@ -23,3 +23,5 @@ python invi.py
 ```
 Video output will be saved in the output folder
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
