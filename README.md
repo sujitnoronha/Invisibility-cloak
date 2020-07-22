@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 You can then run the python file.
 ```bash
-python infi.py
+python invi.py
 ```
 Video output will be saved in the output folder
 
